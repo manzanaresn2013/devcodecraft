@@ -1,0 +1,33 @@
+{
+  "name": "devcodecraft",
+  "version": "1.0.2",
+  "description": "devcodecraft",
+  "type": "module",
+  "main": "devcodecraft.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manzanaresn2013/devcodecraft"
+  },
+  "website": "https://github.com/manzanaresn2013/devcodecraft.git",
+  "keywords": [
+    "devcodecraft"
+  ],
+  "author": "manzanaresn2013",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manzanaresn2013/devcodecraft/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/manzanaresn2013/devcodecraft#readme",
+  "dependencies": {
+    "programscriptsavvy": "1.0.2",
+    "codedevgenius": "1.0.2",
+    "programscripter": "1.0.2"
+  }
+}
